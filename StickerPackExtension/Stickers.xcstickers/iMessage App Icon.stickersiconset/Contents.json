@@ -1,72 +1,106 @@
 {
   "images" : [
     {
+      "size" : "27x20",
+      "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208.png",
+      "scale" : "1x",
+      "platform" : "ios"
+    },
+    {
+      "size" : "27x20",
+      "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-1.png",
+      "scale" : "2x",
+      "platform" : "ios"
+    },
+    {
+      "size" : "27x20",
+      "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-2.png",
+      "scale" : "3x",
+      "platform" : "ios"
+    },
+    {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-5.png",
       "scale" : "1x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-4.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-3.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "1024x768",
       "idiom" : "ios-marketing",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-6.png",
       "scale" : "1x",
       "platform" : "ios"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-7.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-8.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-9.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x45",
+      "idiom" : "iphone",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-10.png",
       "scale" : "3x"
     },
     {
-      "idiom" : "ipad",
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-14.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-13.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "67x50",
+      "idiom" : "ipad",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-12.png",
       "scale" : "1x"
     },
     {
-      "idiom" : "ipad",
       "size" : "67x50",
+      "idiom" : "ipad",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-11.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "ipad",
       "size" : "74x55",
+      "idiom" : "ipad",
+      "filename" : "Apple-WWDC-2016-wallpaper-Matt-Bonney-phone-dark-2208x2208-15.png",
       "scale" : "2x"
     }
   ],

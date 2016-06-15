@@ -1,4 +1,21 @@
 {
+  "stickers" : [
+    {
+      "filename" : "STRONG VALUE TYPES.sticker"
+    },
+    {
+      "filename" : "Aye, Orta.sticker"
+    },
+    {
+      "filename" : "Speed Pete.sticker"
+    },
+    {
+      "filename" : "Fastlane Guy.sticker"
+    },
+    {
+      "filename" : "Feels Ash.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
